@@ -1,0 +1,28 @@
+GitHub Commands from basic to advanced for MAC:
+
+git version - to get the current version of GitHub if installed on your device.
+
+git config —global user.name “Srihari_gururaj”  - config username
+
+git config —global user.email “ [Sriharigururaj@gmail.com]
+(mailto:Sriharigururaj@gmail.com) ”
+
+git config —global core.editor “/Applications/Sublime\ Text.app/Contents/MacOS/Sublime\ 
+
+Text” - config editor
+
+git config —global -e - show config file
+
+git config —global diff.tool p4merge - Configure diff tool 
+
+git config —global difftool.p4merge.path “/Applications/p4merge.app/Contents/MacOS/
+p4merge/“
+
+git config —global difftool.prompt false
+git config —global merge.tool p4merge
+
+git config —global mergetool.p4merge.path “/Applications/p4merge.app/Contents/MacOS/p4merge/“
+
+git config —global mergetool.prompt false
+
+open .gitconfig - Open config file 
